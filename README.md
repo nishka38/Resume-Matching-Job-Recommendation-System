@@ -1,5 +1,5 @@
-# -AI-Powered-Resume-Matching-Job-Recommendation-System
-AI-powered platform that intelligently matches candidate resumes to job roles based on skills, experience, and relevance.
+# esume-Matching-Job-Recommendation-System
+Intelligently matches candidate resumes to job roles based on skills, experience, and relevance.
 # Career Navigator: AI-Driven Job Application Assistant
 
 Career Navigator is an AI-based system designed to streamline the job application process by automating resume screening and providing personalized job recommendations. This project leverages machine learning and natural language processing (NLP) to intelligently match candidates to the most relevant job categories.
