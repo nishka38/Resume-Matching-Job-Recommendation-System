@@ -1,4 +1,4 @@
-# esume-Matching-Job-Recommendation-System
+# Resume-Matching-Job-Recommendation-System
 Intelligently matches candidate resumes to job roles based on skills, experience, and relevance.
 # Career Navigator: AI-Driven Job Application Assistant
 
